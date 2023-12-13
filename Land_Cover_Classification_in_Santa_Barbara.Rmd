@@ -1,5 +1,5 @@
 ---
-title: 'Land Cover Classification in Santa Barbara: A Decision Tree Approach'
+title: '**Land Cover Classification in Santa Barbara: A Decision Tree Approach**'
 author: "Yifei Liu"
 date: '2023-11-30'
 output:
